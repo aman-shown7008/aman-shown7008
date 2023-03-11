@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" /> </p>
-
+<p align="left"> <a href="https://twitter.com/@amanmis60328988" target="blank"><img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" /></a> </p>
 
 - 🌱 I’m currently learning **Node.JS**
 
