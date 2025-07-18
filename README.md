@@ -1,23 +1,36 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Aman%20Mishra%20%7C%20Frontend%20Engineer&fontColor=FFFFFF&fontSize=30&fontAlignY=40&desc=Building%20Scalable%20UI%20for%20Product-Driven%20Teams&descAlignY=65)](https://your-portfolio-link.com)
 
-<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
-<h3 align="center">A Passionate Frontend Engineer from India</h3>
+<h1 align="center">👋 Hi, I’m Aman Mishra</h1>
+<h3 align="center">Frontend Engineer | React | Next.js | TypeScript</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" />
 </p>
-<p align="left">
-  <a href="https://twitter.com/@amanmis60328988" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" />
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently learning: **Next.js, TypeScript**  
+- 💻 Tech Stack: **HTML, CSS, JavaScript, React, Redux, Node.js, Express**  
+- 📫 Reach me: [amanmishra80045@gmail.com](mailto:amanmishra80045@gmail.com)  
+- ⚡ Fun Fact: **I enjoy solving UI puzzles & building sleek dashboards.**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amanmishra80045@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/amanmis60328988" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-- 🌱 I’m currently learning **Next.JS**  
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**  
-- 📫 How to reach me **amanmishra80045@gmail.com**  
-- ⚡ Fun fact **I am Awesome**
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
