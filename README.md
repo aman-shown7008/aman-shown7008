@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Frontend+Developer;ReactJS+Specialist;Software+Engineer;Always+Learning+New+Tech)](https://your-portfolio-link.com)
+[![Banner](https://camo.githubusercontent.com/8b06097c76074b6f5b5fb3b7bbf907aad0067d03b76e92ad69ef2190f0cfb2aa/68747470733a2f2f696d6775722e636f6d2f6f52724a3945502e706e67)](https://your-portfolio-link.com)
+
 
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
