@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Aman+Mishra;Frontend+Developer+%7C+React+%7C+Next.js+%7C+TypeScript;Building+Product-Ready+Web+Applications)](https://yourportfolio.link)
+[![MasterHead](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Aman%20Mishra%20-%20Frontend%20Developer&fontSize=30&fontColor=ffffff)](https://yourportfolio.link)
 
 
 
