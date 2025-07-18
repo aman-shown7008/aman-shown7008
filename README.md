@@ -1,4 +1,4 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=A%20Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=Building%20modern%20UI%20and%20scalable%20apps&descAlignY=65&animation=fadeIn)](https://yourportfolio.link)
+[![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+Specialist;Building+Product-Ready+Web+Applications)](https://yourportfolio.link)
 
 
 
