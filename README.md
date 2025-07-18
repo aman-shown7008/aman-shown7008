@@ -19,11 +19,6 @@
 - 📫 How to reach me **amanmishra80045@gmail.com**  
 - ⚡ Fun fact **I am Awesome**
 
-<!-- Spacer with inline CSS -->
-<hr style="border: none; height: '1px'; background-color: #444; margin: '30px 0';" />
-
-
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt&theme=darkhub" alt="sandeshgithubt" />
