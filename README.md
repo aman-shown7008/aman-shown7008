@@ -1,4 +1,4 @@
-[![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+Specialist;Building+Product-Ready+Web+Applications)](https://yourportfolio.link)
+[![MasterHead](https://github.com/your-username/your-repo/blob/main/assets/frontend-banner.png)](https://yourportfolio.link)
 
 
 
