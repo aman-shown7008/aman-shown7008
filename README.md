@@ -14,7 +14,9 @@
   
 - ⚡ Fun fact **I am Awesome**
   
-<br/>
+<!-- Spacer with inline CSS -->
+<div style="margin-top: 30px;"></div>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt&theme=darkhub" alt="sandeshgithubt" />
