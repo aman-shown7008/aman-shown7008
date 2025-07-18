@@ -20,8 +20,8 @@
 - ⚡ Fun fact **I am Awesome**
 
 <!-- Spacer with inline CSS -->
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
+<h5>&nbsp;</h5>
+<h5>&nbsp;</h5>
 
 
 <p align="left">
