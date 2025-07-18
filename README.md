@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**
-- 
+  
 - 📫 How to reach me **amanmishra80045@gmail.com**
-- 
+  
 - ⚡ Fun fact **I am Awesome**
-- 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt" alt="sandeshgithubt" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 
