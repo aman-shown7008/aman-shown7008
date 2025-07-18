@@ -21,6 +21,8 @@
 
 <!-- Spacer with inline CSS -->
 <h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
