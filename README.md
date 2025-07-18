@@ -14,7 +14,11 @@
   
 - ⚡ Fun fact **I am Awesome**
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt" alt="sandeshgithubt" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt&theme=darkhub" alt="sandeshgithubt" />
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
