@@ -1,19 +1,24 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">A Passionate Frontend Engineer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" /> </p>
-<p align="left"> <a href="https://twitter.com/@amanmis60328988" target="blank"><img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" /></a> </p>
-- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**
-  
-- 📫 How to reach me **amanmishra80045@gmail.com**
-  
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" />
+</p>
+<p align="left">
+  <a href="https://twitter.com/@amanmis60328988" target="blank">
+    <img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Next.JS**  
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**  
+- 📫 How to reach me **amanmishra80045@gmail.com**  
 - ⚡ Fun fact **I am Awesome**
-  
+
 <!-- Spacer with inline CSS -->
 <div style="margin-top: 30px;"></div>
 
@@ -22,7 +27,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt&theme=darkhub" alt="sandeshgithubt" />
   </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
    <a href="https://twitter.com/@amanmis60328988" target="blank">
