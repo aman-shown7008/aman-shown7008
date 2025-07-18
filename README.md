@@ -1,4 +1,4 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Aman%20Mishra%20%7C%20Frontend%20Engineer&fontColor=FFFFFF&fontSize=30&fontAlignY=40&desc=Building%20Scalable%20UI%20for%20Product-Driven%20Teams&descAlignY=65)](https://your-portfolio-link.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">👋 Hi, I’m Aman Mishra</h1>
 <h3 align="center">Frontend Engineer | React | Next.js | TypeScript</h3>
