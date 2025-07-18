@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/your-username/your-repo/blob/main/assets/frontend-banner.png)](https://yourportfolio.link)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Aman+Mishra;Frontend+Developer+%7C+React+%7C+Next.js+%7C+TypeScript;Building+Product-Ready+Web+Applications)](https://yourportfolio.link)
 
 
 
