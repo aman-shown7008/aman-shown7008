@@ -20,8 +20,8 @@
 - ⚡ Fun fact **I am Awesome**
 
 <!-- Spacer with inline CSS -->
-<h6>&nbsp;</h6>
-<h6>&nbsp;</h6>
+<hr style="border: none; height: '1px'; background-color: #444; margin: '30px 0';" />
+
 
 
 <p align="left">
