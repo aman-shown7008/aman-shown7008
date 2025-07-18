@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Frontend+Developer;ReactJS+Specialist;Software+Engineer;Always+Learning+New+Tech)](https://your-portfolio-link.com)
+
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
