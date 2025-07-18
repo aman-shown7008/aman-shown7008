@@ -1,4 +1,4 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Aman%20Mishra%20-%20Frontend%20Developer&fontSize=30&fontColor=ffffff)](https://yourportfolio.link)
+[![Code Style](https://github.com/username/assets/blob/main/frontend-developer-header.png?raw=true)](https://yourportfolio.link)
 
 
 
