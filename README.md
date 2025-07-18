@@ -1,4 +1,4 @@
-[![Banner](https://camo.githubusercontent.com/8b06097c76074b6f5b5fb3b7bbf907aad0067d03b76e92ad69ef2190f0cfb2aa/68747470733a2f2f696d6775722e636f6d2f6f52724a3945502e706e67)](https://your-portfolio-link.com)
+[![MasterHead](https://www.animatedimages.org/data/media/1484/animated-code-image-0033.gif)](https://your-portfolio-link.com)
 
 
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
