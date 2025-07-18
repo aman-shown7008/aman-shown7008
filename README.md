@@ -1,29 +1,16 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" /> </p>
+<p align="left"> <a href="https://twitter.com/@amanmis60328988" target="blank"><img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" /></a> </p>
+- 🌱 I’m currently learning **Next.JS**
 
-# Aman Mishra
-**Frontend Engineer | React.js | Next.js | UI Engineering | TypeScript**
-
-👋 Hi, I'm Aman — a frontend developer with 2+ years' experience building scalable, responsive web apps using modern JavaScript frameworks. Passionate about clean code, product-driven development, and frontend performance.
-
-- 🌱 Currently deepening my knowledge in **Next.js & TypeScript**
-- 📫 Reach me at: **amanmishra80045@gmail.com**
-- 💬 Ask me about: React.js, Redux, TypeScript, REST API integration
-- ⚡ Fun Fact: I enjoy designing pixel-perfect UIs and solving UI/UX challenges
-
-### 💻 Tech Stack
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frontend:** React.js, Redux, Next.js, Tailwind CSS, Sass, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB (Basic)
-- **Tools:** Git, Postman, Figma, VS Code
-
----
-
-### 🔥 Key Projects
-
-- **Real-time Dashboard:** React + Redux + Socket.IO powered analytics dashboard.
-- **Auth System:** JWT + Refresh Token secured authentication for a React app.
-
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**
+  
+- 📫 How to reach me **amanmishra80045@gmail.com**
+  
+- ⚡ Fun fact **I am Awesome**
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt" alt="sandeshgithubt" /></a> </p>
 <h3 align="left">Connect with me:</h3>
