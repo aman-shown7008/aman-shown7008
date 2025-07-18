@@ -104,16 +104,11 @@
   </a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" alt="aman-shown7008" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-shown7008" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
+
 
 
 
