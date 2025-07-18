@@ -104,8 +104,8 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-shown7008" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" alt="aman-shown7008" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" alt="aman-shown7008" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-shown7008" />
 </p>
 
