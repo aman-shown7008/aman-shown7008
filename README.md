@@ -104,15 +104,16 @@
   </a>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td align="left">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" alt="aman-shown7008" />
     </td>
-    <td>
+    <td align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-shown7008" />
     </td>
   </tr>
 </table>
+
 
 
