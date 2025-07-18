@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/amanMishra-pro/assets/blob/main/frontend-developer-banner.gif?raw=true)](https://your-portfolio-link.com)
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=A%20Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=Building%20modern%20UI%20and%20scalable%20apps&descAlignY=65&animation=fadeIn)](https://yourportfolio.link)
 
 
 
