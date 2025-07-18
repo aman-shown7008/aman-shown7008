@@ -104,10 +104,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" />
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" />
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
+
 
 
 
