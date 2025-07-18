@@ -1,4 +1,5 @@
-[![MasterHead](https://www.animatedimages.org/data/media/1484/animated-code-image-0033.gif)](https://your-portfolio-link.com)
+[![MasterHead](https://github.com/amanMishra-pro/assets/blob/main/frontend-developer-banner.gif?raw=true)](https://your-portfolio-link.com)
+
 
 
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
