@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-shown7008&label=Profile%20views&color=0e75b6&style=flat" alt="aman-shown7008" /> </p>
 <p align="left"> <a href="https://twitter.com/@amanmis60328988" target="blank"><img src="https://img.shields.io/twitter/follow/@amanmis60328988?logo=twitter&style=for-the-badge" alt="@amanmis60328988" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Core Java, Data Structure**
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, ReactJS, Redux, TypeScript, Core Java, Data Structure**
 
 - 📫 How to reach me **amanmishra80045@gmail.com**
 
