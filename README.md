@@ -105,14 +105,14 @@
   <!-- New Added -->
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" width="35"/>
+  <img src="https://simpleicons.org/icons/shadcnui.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="35"/>
 </p>
 
 ---
