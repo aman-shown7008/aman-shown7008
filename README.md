@@ -28,17 +28,9 @@
 
 ## 🏆 Achievements
 
-- 💡 Solved 300+ DSA problems on LeetCode & HackerRank  
+- 💡 Solved 450+ DSA problems on LeetCode & HackerRank  
 - 🚀 Built multiple React-based projects  
 - 🎯 Focused on Frontend performance & UI/UX optimization  
-
----
-
-## 🚀 Featured Projects
-
-- 🔹 **Project Name 1** – Short description (React / Next.js)  
-- 🔹 **Project Name 2** – Short description  
-- 🔹 **Project Name 3** – Short description  
 
 ---
 
@@ -115,10 +107,6 @@
 </p>
 
 ---
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-shown7008&show_icons=true&locale=en&layout=compact&theme=dark" />
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shown7008&theme=dark" />
