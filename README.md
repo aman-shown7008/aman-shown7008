@@ -67,24 +67,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   <a href="https://twitter.com/@amanmis60328988" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-   </a>
-   <a href="https://linkedin.com/in/aman-mishra-5a18261aa" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-   </a>
-   <a href="https://codesandbox.com/aman-shown7008" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" />
-   </a>
-   <a href="https://instagram.com/amanmishra5261" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-   </a>
-   <a href="https://www.hackerrank.com/profile/amanmishra80045" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-   </a>
-   <a href="https://www.leetcode.com/amanmis7000" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-   </a>
+<a href="https://twitter.com/@amanmis60328988" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a><a href="https://linkedin.com/in/aman-mishra-5a18261aa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a><a href="https://codesandbox.com/aman-shown7008" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30"/></a><a href="https://instagram.com/amanmishra5261" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a><a href="https://www.hackerrank.com/profile/amanmishra80045" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a><a href="https://www.leetcode.com/amanmis7000" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
 
 ---
@@ -105,7 +88,6 @@
   <!-- New Added -->
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" width="35"/>
-  <img src="https://simpleicons.org/icons/shadcnui.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35"/>
